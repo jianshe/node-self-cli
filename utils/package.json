@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "log4js": "^6.1.2"
+  }
+}
