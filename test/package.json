@@ -10,7 +10,7 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "core-js": "^2.6.5",
-    "handlebars": "^4.5.2",
+    "handlebars": "^4.5.3",
     "log-symbols": "^3.0.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
